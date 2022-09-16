@@ -1,0 +1,22 @@
+# See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Toggle mimpishio-login'
+      'command': 'mimpishio-login:toggle'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'mimpishio-login'
+      'submenu': [
+        {
+          'label': 'Toggle'
+          'command': 'mimpishio-login:toggle'
+        }
+      ]
+    ]
+  }
+]

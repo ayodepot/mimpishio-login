@@ -1,0 +1,16 @@
+{
+  "name": "mimpishio-login",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Mimpishio Slot Deposit Pulsa Tanpa Potongan Gandakan Saldo Pulsamu",
+  "keywords": [
+    "mimpishio",
+    "link alternatif mimpishio",
+    "mimpishio login"
+  ],
+  "repository": "https://github.com/ayodepot/mimpishio-login",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
